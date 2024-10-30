@@ -7,7 +7,7 @@ import os
 
 load_dotenv()
 # environment variables
-print(".......................")
+print("!**************** Weather Report ****************!")
 
 # API key for Openweathermap
 API_KEY = os.getenv("API_KEY")
